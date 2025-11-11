@@ -1,0 +1,9 @@
+Kaggle. (n.d.). Heart Disease UCI dataset. Retrieved from https://www.kaggle.com/datasets/ronitf/heart-disease-uci
+
+Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Duchesnay, É. (2011). Scikit-learn: Machine learning in Python. Journal of Machine Learning Research, 12, 2825–2830. https://scikit-learn.org/
+
+Hunter, J. D. (2007). Matplotlib: A 2D graphics environment. Computing in Science & Engineering, 9(3), 90–95. https://matplotlib.org/
+
+Scikit-learn. (n.d.). ConfusionMatrixDisplay. Retrieved from https://scikit-learn.org/stable/auto_examples/model_selection/plot_confusion_matrix.html
+
+Python Software Foundation. (n.d.). Classes (Python documentation). Retrieved from https://docs.python.org/3/tutorial/classes.html
